@@ -1,5 +1,7 @@
 # R script to accompany Intro to R
+
 # Cory Riegel
+
 ######################################################
 
 # You will see that you can put non-executable "comment" lines
